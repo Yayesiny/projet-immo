@@ -1,0 +1,198 @@
+.dvppl-cf7 .wpcf7 form {
+  position: relative;
+}
+
+.dvppl-cf7 .wpcf7 form>div,
+.dvppl-cf7 .wpcf7 form>p {
+  margin-bottom: 1.3em;
+}
+
+.dvppl-cf7 .wpcf7 .dvppl-cf7 .wpcf7-control-wrap {
+  width: 100%;
+  display: block;
+}
+
+.dvppl-cf7 .wpcf7 input {
+  width: 100%;
+  max-width: 100%;
+}
+
+.dvppl-cf7 .wpcf7 input:not([type=submit]):focus,
+.dvppl-cf7 .wpcf7 select:focus,
+.dvppl-cf7 .wpcf7 textarea:focus {
+  border-color: #eaeaea;
+  outline: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.dvppl-cf7 .wpcf7 input:not([type=submit]),
+.dvppl-cf7 .wpcf7 select,
+.dvppl-cf7 .wpcf7 textarea {
+  width: 100%;
+  padding: .75em;
+}
+
+.dvppl-cf7 .wpcf7 input[type=file] {
+  color: #666;
+  height: auto;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #eaeaea;
+  background: #fafafa;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.dvppl-cf7 .wpcf7 input[type=checkbox],
+.dvppl-cf7 .wpcf7 input[type=radio] {
+  display: inline-block;
+  position: relative;
+  visibility: hidden;
+  clear: none;
+  cursor: pointer;
+  line-height: 0;
+  height: 1.2em;
+  margin: -3px 4px 0 0;
+  outline: 0;
+  padding: 0;
+  -webkit-border-radius: .2em;
+  border-radius: .2em;
+  text-align: center;
+  vertical-align: middle;
+  width: 1.4em;
+  min-width: 1.4em;
+  -webkit-transition: all .2s linear;
+  transition: all .2s linear;
+}
+
+.dvppl-cf7 input[type=range] {
+  background: 0 0!important;
+  border: none!important;
+  padding-left: 0!important;
+  padding-right: 0!important;
+}
+
+.dvppl-cf7 .wpcf7-acceptance input[type=checkbox] + span:before,
+.dvppl-cf7 .wpcf7-acceptance input[type=checkbox]:checked + span:before,
+.dvppl-cf7 .wpcf7-checkbox input[type=checkbox] + span:before,
+.dvppl-cf7 .wpcf7-checkbox input[type=checkbox]:checked + span:before,
+.dvppl-cf7 .wpcf7-radio input[type=radio] + span:before {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+.dvppl-cf7 .wpcf7-acceptance input[type=checkbox],
+.dvppl-cf7 .wpcf7-checkbox input[type=checkbox],
+.dvppl-cf7 .wpcf7-radio input[type=radio] {
+  display: none;
+}
+
+.dvppl-cf7 .wpcf7-checkbox input[type="checkbox"] + span:before, 
+.dvppl-cf7 .wpcf7-acceptance input[type="checkbox"] + span:before, 
+.dvppl-cf7 .wpcf7-radio input[type="radio"]:not(:checked) + span:before {
+  background-color: #ffffff;
+}
+
+.dvppl-cf7 .wpcf7-checkbox input[type="checkbox"] + span:before, 
+.dvppl-cf7 .wpcf7-acceptance input[type="checkbox"] + span:before, 
+.dvppl-cf7 .wpcf7-radio input[type="radio"] + span:before {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d1d8de;
+  width: 14px;
+  height: 14px;
+}
+
+.dvppl-cf7 .wpcf7-radio input[type="radio"]:checked + span:before {
+  box-shadow:inset 0px 0px 0px 4px #fff;
+}
+
+.dvppl-cf7 .wpcf7-radio input[type=radio] + span:before {
+  -webkit-border-radius: 100%;
+   border-radius: 100%;
+  background-color: #d1d8de;
+}
+
+.dvppl-cf7 .wpcf7-acceptance input[type=checkbox] + span:before,
+.dvppl-cf7 .wpcf7-checkbox input[type=checkbox] + span:before,
+.dvppl-cf7 .wpcf7-radio input[type=radio] + span:before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.dvppl-cf7 .wpcf7-acceptance input[type=checkbox]:checked + span:before,
+.dvppl-cf7 .wpcf7-checkbox input[type=checkbox]:checked + span:before {
+  content: "\2714";
+  line-height: 1.2;
+}
+
+.dvppl-cf7-button-center input.wpcf7-form-control.wpcf7-submit,
+.dvppl-cf7-button-justify input.wpcf7-form-control.wpcf7-submit,
+.dvppl-cf7-button-left input.wpcf7-form-control.wpcf7-submit,
+.dvppl-cf7-button-right input.wpcf7-form-control.wpcf7-submit {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  -js-display: flex;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: flex;
+  width: auto
+}
+
+.dvppl-cf7 .wpcf7 input[type=submit] {        
+  font-size: 14px;
+  letter-spacing: 0.6px;
+  width: auto;
+  font-size: 16px;
+  padding: 10px 22px 10px 22px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  border-style: solid;
+  border-color: #2ea3f2;
+  color:#fff;
+  background-color: #2ea3f2;
+  -webkit-appearance: button;
+  cursor: pointer;
+}
+
+.dvppl-cf7 .wpcf7 div.wpcf7-response-output {
+  margin: 0;
+}
+
+.dvppl-cf7 .wpcf7 .dvppl-cf7-col {
+  
+}
+
+@media only screen and (min-width: 769px) {
+
+  .dvppl-cf7 .wpcf7 .dvppl-cf7-col {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .dvppl-cf7 .wpcf7 .dvppl-cf7-col label, 
+  .dvppl-cf7 .wpcf7 .dvppl-cf7-col > span {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -moz-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    padding: 0 10px;
+  }
+
+}

@@ -1,0 +1,13 @@
+.et-db #et-boc .et-fb-modules-list li.dvppl_cf7_styler  {
+  background: #525ddc;
+  color: #fff;
+  font-size: 11px;
+}
+
+
+.et-db #et-boc .et-fb-modules-list li.dvppl_cf7_styler :hover
+.et-db #et-boc .et-fb-modules-list li.dvppl_cf7_styler :active,
+.et-db #et-boc .et-fb-modules-list li.dvppl_cf7_styler :focus, {
+  background: rgba(82, 93, 220, 0.8);
+  color: #fff;
+}

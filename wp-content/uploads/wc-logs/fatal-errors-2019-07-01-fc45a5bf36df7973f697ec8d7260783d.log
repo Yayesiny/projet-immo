@@ -1,0 +1,22 @@
+2019-07-01T15:36:55+00:00 CRITICAL Uncaught Error: Call to undefined function ESIG_POST() in /var/www/html/DIGIT-IMMO/wp-content/plugins/woocommerce-digital-signature/admin/woocommerce-esig-shortcode.php:98
+Stack trace:
+#0 /var/www/html/DIGIT-IMMO/wp-includes/class-wp-hook.php(288): ESIG_WOOCOMMERCE_Shortcode->esig_woo_product_save(579)
+#1 /var/www/html/DIGIT-IMMO/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/DIGIT-IMMO/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/DIGIT-IMMO/wp-includes/post.php(3951): do_action('save_post', 579, Object(WP_Post), false)
+#4 /var/www/html/DIGIT-IMMO/wp-admin/includes/post.php(666): wp_insert_post(Array)
+#5 /var/www/html/DIGIT-IMMO/wp-admin/post-new.php(66): get_default_post_to_edit('page', true)
+#6 {main}
+  thrown dans /var/www/html/DIGIT-IMMO/wp-content/plugins/woocommerce-digital-signature/admin/woocommerce-esig-shortcode.php à la ligne 98
+
+2019-07-01T15:37:25+00:00 CRITICAL Uncaught Error: Call to undefined function ESIG_POST() in /var/www/html/DIGIT-IMMO/wp-content/plugins/woocommerce-digital-signature/admin/woocommerce-esig-shortcode.php:98
+Stack trace:
+#0 /var/www/html/DIGIT-IMMO/wp-includes/class-wp-hook.php(288): ESIG_WOOCOMMERCE_Shortcode->esig_woo_product_save(580)
+#1 /var/www/html/DIGIT-IMMO/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/DIGIT-IMMO/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /var/www/html/DIGIT-IMMO/wp-includes/post.php(3951): do_action('save_post', 580, Object(WP_Post), false)
+#4 /var/www/html/DIGIT-IMMO/wp-admin/includes/post.php(666): wp_insert_post(Array)
+#5 /var/www/html/DIGIT-IMMO/wp-admin/post-new.php(66): get_default_post_to_edit('page', true)
+#6 {main}
+  thrown dans /var/www/html/DIGIT-IMMO/wp-content/plugins/woocommerce-digital-signature/admin/woocommerce-esig-shortcode.php à la ligne 98
+

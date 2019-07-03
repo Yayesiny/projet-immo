@@ -1,0 +1,528 @@
+# Translation of Activello in French (France)
+# This file is distributed under the same license as the Activello package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-16 07:32:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Activello\n"
+
+#. Theme Name of the plugin/theme
+msgid "Activello"
+msgstr "Activello"
+
+#. Description of the plugin/theme
+msgid "Activello is a clean and minimal WordPress blog theme with premium look and feel well suited for food, fashion, travel, lifestyle, sports and any other awesome blogs. This theme features WooCommerce integration that allows you to create fully functional eCommerce website side by side with your blog. This theme has several customization options that are available WordPress Theme Customizer. Theme is also multilingual ready and translated in several languages. This awesome blog theme is also SEO friendly helping you to achieve the highest positions on Google. Activello is the only WordPress blog theme you will ever need."
+msgstr "Activello est un thème WordPress de blog propre et minimaliste avec une apparence bien adaptée pour des blogs sur l'alimentation, la mode, le voyage, le style de vie, les sports et bien d'autres. Ce thème comporte l'intégration de WooCommerce qui vous permet de créer un site Web d'eCommerce entièrement fonctionnel dans votre blog. Ce thème a plusieurs options de personnalisation disponibles dans le Customizer. Le thème est également multilingue et prêt à traduire dans plusieurs langues. Ce thème de blog génial est également SEO friendly pour vous aider à atteindre les plus hauts niveaux sur Google. Activello est le seul thème de blog WordPress dont vous aurez jamais besoin."
+
+#. Template Name of the plugin/theme
+msgid "Full-width(no sidebar)"
+msgstr "Pleine largeur (pas de barre)"
+
+#: sidebar.php:38
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:14
+msgid "Search"
+msgstr "Rerchercher"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche :"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr "Rechercher&hellip;"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Recherche :"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour: %s"
+
+#: inc/widgets/widget-recent-posts.php:104
+msgid "Limit Posts Number"
+msgstr "Limite du nombre d'articles"
+
+#: inc/widgets/widget-social.php:17 inc/widgets/widget-social.php:46
+msgid "Follow us"
+msgstr "Suivez-nous"
+
+#: inc/widgets/widget-social.php:11
+msgid "Activello theme widget to display social media icons"
+msgstr "Widfget du thème Activello pour afficher les icônes de médias sociaux"
+
+#: inc/widgets/widget-social.php:12
+msgid "Activello Social Widget"
+msgstr "Widget Social Activello"
+
+#: inc/widgets/widget-categories.php:91
+msgid "Limit Categories "
+msgstr "Limite du nombre de catégories"
+
+#: inc/widgets/widget-categories.php:104
+msgid "Enable Posts Count"
+msgstr "Activer le compteur d'articles"
+
+#: inc/widgets/widget-recent-posts.php:96
+msgid "Title"
+msgstr "Titre :"
+
+#: inc/widgets/widget-recent-posts.php:11
+msgid "Activello recent posts widget with thumbnails"
+msgstr "Widget Activello des articles récents avec miniatures"
+
+#: inc/widgets/widget-recent-posts.php:12
+msgid "Activello Recent Posts Widget"
+msgstr "Widget Activello des articles récents"
+
+#: inc/widgets/widget-recent-posts.php:17
+#: inc/widgets/widget-recent-posts.php:91
+msgid "recent Posts"
+msgstr "Articles récents"
+
+#: inc/widgets/widget-categories.php:83 inc/widgets/widget-social.php:49
+msgid "Title "
+msgstr "Titre"
+
+#: inc/template-tags.php:86
+msgid "Posted on"
+msgstr "Posté le"
+
+#: inc/widgets/widget-categories.php:17 inc/widgets/widget-categories.php:76
+msgid "Categories"
+msgstr "Catégorie"
+
+#: inc/widgets/widget-categories.php:11
+msgid "Activello widget to display categories"
+msgstr "Widget Activello pour afficher les catégories"
+
+#: inc/widgets/widget-categories.php:12
+msgid "Activello Categories"
+msgstr "Catégories Activello"
+
+#: inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-chevron-left\"></i> %title"
+msgstr "<i class=\"fa fa-chevron-left\"></i> %title"
+
+#: inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <i class=\"fa fa-chevron-right\"></i>"
+msgstr "%title <i class=\"fa fa-chevron-right\"></i>"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigation d'article"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Articles plus récents"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Articles Pr&eacute;c&eacute;dents"
+
+#: inc/navwalker.php:196
+msgid "Add a menu"
+msgstr "Ajouter un menu"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigation au sein des articles"
+
+#: inc/socialnav.php:13
+msgctxt "nav menu location"
+msgid "Social Menu"
+msgstr "Menu social"
+
+#: inc/metaboxes.php:58
+msgid "Default"
+msgstr "Pa défaut"
+
+#: inc/metaboxes.php:28
+msgid "Select layout for this specific Product only"
+msgstr "Sélectionnez le style uniquement pour ce produit spécifique"
+
+#: inc/metaboxes.php:16
+msgid "Select layout for this specific Page only ( Note: This setting only reflects if page Template is set as Default Template and Blog Type Templates.)"
+msgstr "Sélectionnez la disposition pour cette page spécifique seulement (Note:. Ce paramètre ne s'applique que si la page modèle est définie comme Modèle par Défaut et de type Blog)"
+
+#: inc/metaboxes.php:21
+msgid "Select layout for this specific Post only"
+msgstr "Sélectionnez la disposition spécifique pour ce seul article"
+
+#: inc/extras.php:259
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation"
+
+#. translators: 1: date, 2: time
+#: inc/extras.php:252
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/extras.php:158
+msgid "Theme by %1$s Powered by %2$s"
+msgstr "Thème par %1$s. Propulsé par %2$s"
+
+#: inc/extras.php:246
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr "<cite class=\"fn\">%s</cite> <span class=\"says\">dit :</span>"
+
+#: inc/extras.php:75
+msgid "Submit"
+msgstr "Valider"
+
+#: inc/extras.php:72
+msgid "Password:"
+msgstr "Mot de passe :"
+
+#: inc/extras.php:71
+msgid "<p>This post is password protected. To view it please enter your password below:</p>"
+msgstr "<p>Cet article est prot&eacute;g&eacute; par un mot de passe. Entrez maintenant un mot de passe pour le visualiser :</p>"
+
+#: inc/customizer.php:205
+msgid "Additional CSS"
+msgstr "CSS compl&eacute;mentaire"
+
+#: inc/extras.php:54
+msgid "Untitled"
+msgstr "Sans titre"
+
+#: inc/customizer.php:204
+msgid "Custom CSS"
+msgstr "CSS Personalisée"
+
+#: inc/customizer.php:195
+msgid "Other"
+msgstr "Autre"
+
+#: inc/customizer.php:170
+msgid "Social Icon:hover Color"
+msgstr "Couleur des ic&ocirc;nes survol&eacute;es des R&eacute;seaux Sociaux"
+
+#: inc/customizer.php:177
+msgid "Footer"
+msgstr "Pied de page"
+
+#: inc/customizer.php:150
+msgid "Accent Color"
+msgstr "Couleur du Contraste"
+
+#: inc/customizer.php:151 inc/customizer.php:161 inc/customizer.php:171
+msgid "Default used if no color is selected"
+msgstr "Par d&eacute;faut si aucune couleur n'est s&eacute;lectionn&eacute;e"
+
+#: inc/customizer.php:160
+msgid "Social icon color"
+msgstr "Couleur de l'icône sociale"
+
+#: inc/customizer.php:141
+msgid "Choose between different layout options to be used as default"
+msgstr "Choisissez entre différentes options de style à utiliser par défaut"
+
+#: inc/customizer.php:60
+msgid "Content Options"
+msgstr "Options du contenu"
+
+#: inc/customizer.php:73
+msgid "Show post excerpts?"
+msgstr "Afficher les extraits d'articles ?"
+
+#: inc/customizer.php:127
+msgid "Layout options"
+msgstr "Options de présentation "
+
+#: inc/customizer.php:138
+msgid "Website Layout Options"
+msgstr "Options de mise en forme du site"
+
+#: inc/customizer.php:53
+msgid "Activello Options"
+msgstr "Options Activello"
+
+#: inc/customizer.php:54
+msgid "Panel to update activello theme options"
+msgstr "Panneau pour mettre à jour les options du thème Activello"
+
+#: inc/customizer.php:85
+msgid "Display Comments on Static Pages?"
+msgstr "Afficher les commentaires sur les pages statiques&nbsp;?"
+
+#: inc/customizer.php:94
+msgid "Slider Option"
+msgstr "Option de diaporama"
+
+#: inc/customizer.php:44
+msgid "Show"
+msgstr "&Eacute;mission"
+
+#: image.php:23
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr "Suivant <i class=\"fa fa-chevron-right\"></i>"
+
+#: inc/customizer.php:30
+msgid "Logo"
+msgstr "Logo"
+
+#: header.php:40
+msgid "Toggle navigation"
+msgstr "Afficher/masquer la navigation"
+
+#: image.php:22
+msgid "<i class=\"fa fa-chevron-left\"></i> Previous"
+msgstr "<i class=\"fa fa-chevron-left\"></i> Pr&eacute;c&eacute;dent"
+
+#: functions.php:230
+msgid "Title Only"
+msgstr "Seulement le titre"
+
+#: functions.php:266 searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Recherche"
+
+#: functions.php:228
+msgid "Logo Only"
+msgstr "Logo seulement"
+
+#: functions.php:229
+msgid "Logo + Tagline"
+msgstr "Logo + slogan"
+
+#: functions.php:231
+msgid "Title + Tagline"
+msgstr "Titre + slogan"
+
+#: functions.php:226
+msgid "No Sidebar"
+msgstr "Pas de barre latérale"
+
+#: functions.php:226
+msgid "Full Width"
+msgstr "Pleine Largeur"
+
+#: functions.php:226
+msgid "Right Sidebar"
+msgstr "Barre latérale droite"
+
+#: functions.php:226
+msgid "Left Sidebar"
+msgstr "Barre latérale gauche"
+
+#: functions.php:112
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:71
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: content.php:73
+msgid "% Comments"
+msgstr "% commentaires"
+
+#: content-single.php:55
+msgid "Comment (1)"
+msgstr "Commentaire (1)"
+
+#: content-single.php:55
+msgid "Comments (%)"
+msgstr "Commentaires (%)"
+
+#: content.php:73
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: content-single.php:55 content.php:73
+msgid "Leave a comment"
+msgstr "Laissez un commentaire"
+
+#. translators: %s: Name of current post
+#: content-single.php:21 content.php:22
+msgid "Edit %s"
+msgstr "Éditer %s"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que rien ne soit trouvé pour votre recherche."
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt à publier votre 1er article ? <a href=\"%1$s\">Lancez vous ici</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#: content-grid.php:37 content-page.php:21 content-single.php:43 content.php:56
+#: image.php:79
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-grid.php:28 content.php:41 content.php:67 inc/extras.php:137
+msgid "Read More"
+msgstr "En savoir plus"
+
+#: content-grid.php:16 content-page.php:32 inc/extras.php:252
+msgid "Edit"
+msgstr "&Eacute;diter"
+
+#: comments.php:96
+msgctxt "comment form placeholder"
+msgid "Comment"
+msgstr "Commentaire"
+
+#: comments.php:94
+msgid "Post Reply"
+msgstr "Publier réponse"
+
+#: comments.php:85
+msgid "Website"
+msgstr "Site web"
+
+#: comments.php:81
+msgid "Email"
+msgstr "Adresse e-mail"
+
+#: comments.php:77
+msgid "Name"
+msgstr "Entrée"
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Les commentaires sont clos."
+
+#: comments.php:37 comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:36 comments.php:55
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaire plus anciens"
+
+#: comments.php:35 comments.php:54
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comment"
+msgstr[0] "1 Commentaire"
+msgstr[1] "%1$s Commentaires"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "Discussions"
+
+#: archive.php:60
+msgid "Audios"
+msgstr "Audios"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr "États"
+
+#: archive.php:54
+msgid "Links"
+msgstr "Liens :"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "Citations"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:45
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "Galeries"
+
+#: archive.php:39
+msgid "Asides"
+msgstr "Annonces"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "Année&nbsp;: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "n Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: 404.php:58
+msgid "Tags"
+msgstr "Thèmes"
+
+#: 404.php:53 archive.php:66 sidebar.php:31
+msgid "Archives"
+msgstr "Archives"
+
+#. translators: %1$s: smiley
+#: 404.php:52
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de voir du côté des archives mensuelles. %1$s"
+
+#: 404.php:31
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#: 404.php:25
+msgid "Recent Posts"
+msgstr "Articles récents"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Contenu Introuvable. L'outil de Recherche ou les Liens ci-dessous vous remettront peut-être sur la voie&hellip;"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups, la page ne peut être trouvée"
+
+#. Author of the plugin/theme
+msgid "Colorlib"
+msgstr "Colorlib"
+
+#. Theme URI of the plugin/theme
+msgid "https://colorlib.com/wp/themes/activello/"
+msgstr "https://colorlib.com/wp/themes/activello/"
+
+#. Author URI of the plugin/theme
+msgid "http://colorlib.com"
+msgstr "http://colorlib.com"

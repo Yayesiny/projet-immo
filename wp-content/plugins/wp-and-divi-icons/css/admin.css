@@ -1,0 +1,113 @@
+/*
+WP and Divi Icons by Divi Space, an Aspen Grove Studios company
+Licensed under the GNU General Public License v3 (see ../license.txt)
+
+This plugin includes code based on parts of the Divi theme and/or the
+Divi Builder by Elegant Themes, licensed GPLv2, used under GPLv3 in this project by special permission (see ../license.txt).
+*/
+
+.agsdi-picker-credit {
+	color: #aaa;
+	font-size: 13px;
+	line-height: 1.5em;
+	font-style: italic;
+	max-width: 520px;
+	display: block;
+}
+.agsdi-picker-credit a {
+
+}
+
+input.agsdi-picker-search-divi, input.agsdi-picker-search-tinymce {
+	display: block;
+	width: 300px;
+	margin: 10px 0;
+}
+input.agsdi-picker-search-tinymce {
+	padding: 2px 5px;
+	width: 100%;
+	box-sizing: border-box;
+}
+#agsdi-admin-page h2 {
+	margin-top: 2em;
+}
+#agsdi-instructions h2 {
+	margin-top: 1.5em;
+}
+#agsdi-instructions .agsdi-icon {
+	font-size: 24px;
+	color: #f060e1;
+}
+#agsdi-admin-page ul {
+	list-style: disc;
+	margin-left: 2em;
+}
+
+/* Start styling for TinyMCE */
+.mce-agsdi-icon-picker .agsdi-icons {
+	white-space: normal;
+	overflow: auto;
+	height: 500px;
+}
+.mce-agsdi-icon-picker .agsdi-icons *[data-icon],
+.mce-agsdi-icon-preview *[data-icon] {
+	font-size: 32px;
+	width: 1em;
+	height: 1em;
+	display: inline-block;
+}
+.mce-agsdi-icon-picker .agsdi-icons *[data-icon] {
+	padding: 10px;
+}
+.mce-agsdi-icon-picker .agsdi-icons *[data-icon]:before,
+.mce-agsdi-icon-preview *[data-icon]:before {
+	display: inline-block;
+	height: 1em;
+	vertical-align: top;
+	text-align: center;
+}
+.mce-agsdi-icon-picker .agsdi-icons *[data-icon]:after,
+.mce-agsdi-icon-preview *[data-icon]:after {
+	display: none;
+}
+.mce-agsdi-icon-picker .agsdi-icons .agsdi-selected {
+	color: #fff !important;
+	background-color: #ff8500;
+}
+.mce-agsdi-icon-preview .agsdi-icon-preview,
+.mce-agsdi-icon-preview label {
+	width: 150px;
+	margin-right: 10px;
+}
+.mce-agsdi-icon-preview .agsdi-icon-preview {
+	height: 100%;
+	padding-top: 24px;
+	overflow: hidden;
+	position: relative;
+}
+.mce-agsdi-icon-preview label {
+	position: absolute;
+	text-align: center;
+	background-color: #fff;
+	line-height: 24px;
+}
+.mce-agsdi-icon-preview .agsdi-icon-preview span {
+	position: absolute;
+}
+.mce-i-agsdi:before {
+	display: inline-block;
+}
+.mce-agsdi-credit .agsdi-picker-credit-separator {
+	display: none;
+}
+.mce-agsdi-multi-color-message p, .mce-agsdi-style-inherit-message p {
+	white-space: normal;
+}
+.mce-agsdi-multi-color-message p {
+	height: 100px;
+	overflow-y: auto;
+}
+.mce-agsdi-style-inherit-message p {
+	font-style: italic;
+}
+/* End styling for TinyMCE */

@@ -1,0 +1,1151 @@
+# Copyright (C) 2018 Theme404
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-08-01 16:00+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator:\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo; be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:25
+msgid "404"
+msgstr ""
+
+#: 404.php:25
+msgid "error"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: demo-content/demo-content-import.php:22
+msgid ""
+"Please waiting for a few minutes, do not close the window or refresh the "
+"page until the data is imported"
+msgstr ""
+
+#: footer.php:43
+msgid "404themes"
+msgstr ""
+
+#: functions.php:56
+msgid "Primary"
+msgstr ""
+
+#: functions.php:57
+msgid "Social Media"
+msgstr ""
+
+#: functions.php:120
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:122 functions.php:132
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:130
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:140 functions.php:168
+#, php-format
+msgid "Footer %d"
+msgstr ""
+
+#: functions.php:142 functions.php:152 functions.php:161 functions.php:170
+msgid "Appears in the buttom of footer area"
+msgstr ""
+
+#: functions.php:150 functions.php:159
+#, php-format
+msgid "Footer  %d"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/real-estater-customizer.php:24
+msgid "Default Seting"
+msgstr ""
+
+#: inc/real-estater-customizer.php:37
+msgid " Header Call To"
+msgstr ""
+
+#: inc/real-estater-customizer.php:52
+msgid " Header Call To Text  "
+msgstr ""
+
+#: inc/real-estater-customizer.php:53
+msgid "Enter text or HTML for call to actions"
+msgstr ""
+
+#: inc/real-estater-customizer.php:68
+msgid " Header Telephone "
+msgstr ""
+
+#: inc/real-estater-customizer.php:69
+msgid "Fill The Telephone Number For Header Call To"
+msgstr ""
+
+#: inc/real-estater-customizer.php:80
+msgid "Front Page Seting"
+msgstr ""
+
+#: inc/real-estater-customizer.php:88
+msgid "Slider Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:89
+msgid "Manage Slides for the site"
+msgstr ""
+
+#: inc/real-estater-customizer.php:102 inc/real-estater-customizer.php:224
+#: inc/real-estater-customizer.php:275 inc/real-estater-customizer.php:356
+#: inc/real-estater-customizer.php:586 inc/real-estater-customizer.php:771
+#: inc/real-estater-customizer.php:859 inc/real-estater-customizer.php:953
+#: inc/real-estater-customizer.php:1022 inc/real-estater-customizer.php:1109
+msgid "Enable/Disable This Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:108 inc/real-estater-customizer.php:230
+#: inc/real-estater-customizer.php:281 inc/real-estater-customizer.php:362
+#: inc/real-estater-customizer.php:592 inc/real-estater-customizer.php:777
+#: inc/real-estater-customizer.php:865 inc/real-estater-customizer.php:959
+#: inc/real-estater-customizer.php:1028 inc/real-estater-customizer.php:1115
+#: inc/real-estater-customizer.php:1234 inc/real-estater-customizer.php:1322
+#: inc/real-estater-sanitizer.php:10
+msgid "Yes"
+msgstr ""
+
+#: inc/real-estater-customizer.php:109 inc/real-estater-customizer.php:231
+#: inc/real-estater-customizer.php:282 inc/real-estater-customizer.php:363
+#: inc/real-estater-customizer.php:593 inc/real-estater-customizer.php:778
+#: inc/real-estater-customizer.php:866 inc/real-estater-customizer.php:960
+#: inc/real-estater-customizer.php:1029 inc/real-estater-customizer.php:1116
+#: inc/real-estater-customizer.php:1235 inc/real-estater-customizer.php:1323
+#: inc/real-estater-sanitizer.php:11
+msgid "No"
+msgstr ""
+
+#: inc/real-estater-customizer.php:123
+msgid "Select category for slider"
+msgstr ""
+
+#: inc/real-estater-customizer.php:133
+msgid "Learn More"
+msgstr ""
+
+#: inc/real-estater-customizer.php:141
+msgid "Learn More Text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:151 inc/real-estater-customizer.php:159
+msgid "Contact Us"
+msgstr ""
+
+#: inc/real-estater-customizer.php:177
+msgid "Contact Us Link"
+msgstr ""
+
+#: inc/real-estater-customizer.php:194
+msgid "No. of Slider"
+msgstr ""
+
+#: inc/real-estater-customizer.php:209
+msgid "About Us Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:210
+msgid "Manage About Us Section "
+msgstr ""
+
+#: inc/real-estater-customizer.php:245
+msgid "Select Page"
+msgstr ""
+
+#: inc/real-estater-customizer.php:246
+msgid "Page Selection About  Us."
+msgstr ""
+
+#: inc/real-estater-customizer.php:260
+msgid "Feature  Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:261
+msgid "Manage Feature  for the site"
+msgstr ""
+
+#: inc/real-estater-customizer.php:288
+msgid "Feature Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:297
+msgid "Feature title text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:313 inc/real-estater-customizer.php:901
+msgid "Select category for Renr Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:329
+msgid "No. of Post on Feature Section "
+msgstr ""
+
+#: inc/real-estater-customizer.php:344
+msgid "Service  Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:345
+msgid "Manage Service  Section  for the site"
+msgstr ""
+
+#: inc/real-estater-customizer.php:369
+#: template-parts/sections/section-service.php:35
+msgid "Service Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:378
+msgid "Servce title text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:391
+msgid "First Page For Service Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:392 inc/real-estater-customizer.php:406
+#: inc/real-estater-customizer.php:420 inc/real-estater-customizer.php:434
+#: inc/real-estater-customizer.php:448 inc/real-estater-customizer.php:462
+msgid "Select page for Service  Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:405
+msgid "Second Page For Service Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:419
+msgid " Third Page For Service Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:433
+msgid "Forth Page For Service Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:447
+msgid "Fifth Page For Service Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:461
+msgid "Sixth Page For Service Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:477
+msgid "First Service Icon"
+msgstr ""
+
+#: inc/real-estater-customizer.php:478 inc/real-estater-customizer.php:494
+#: inc/real-estater-customizer.php:511 inc/real-estater-customizer.php:527
+#: inc/real-estater-customizer.php:543 inc/real-estater-customizer.php:559
+#: inc/real-estater-customizer.php:679 inc/real-estater-customizer.php:695
+#: inc/real-estater-customizer.php:712
+msgid "Choose the icon from lists."
+msgstr ""
+
+#: inc/real-estater-customizer.php:493
+msgid "Second Service Icons"
+msgstr ""
+
+#: inc/real-estater-customizer.php:510
+msgid "Third Service Icons"
+msgstr ""
+
+#: inc/real-estater-customizer.php:526
+msgid "Forth Service Icons"
+msgstr ""
+
+#: inc/real-estater-customizer.php:542
+msgid "Fifth Service Icons"
+msgstr ""
+
+#: inc/real-estater-customizer.php:558
+msgid "Sixth Service Icons"
+msgstr ""
+
+#: inc/real-estater-customizer.php:571
+msgid "Property  Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:572
+msgid "Manage property  Section  for the site"
+msgstr ""
+
+#: inc/real-estater-customizer.php:599
+#: template-parts/sections/section-property.php:29
+msgid "Property Section Title"
+msgstr ""
+
+#: inc/real-estater-customizer.php:608
+msgid "property title text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:624 inc/real-estater-customizer.php:642
+#: inc/real-estater-customizer.php:660
+msgid " Page For Property Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:625 inc/real-estater-customizer.php:643
+#: inc/real-estater-customizer.php:661
+msgid "Select page for Property  Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:678
+msgid "Property Icons First"
+msgstr ""
+
+#: inc/real-estater-customizer.php:694
+msgid "Property Icons Second"
+msgstr ""
+
+#: inc/real-estater-customizer.php:711
+msgid "Property Icons Third"
+msgstr ""
+
+#: inc/real-estater-customizer.php:721 inc/real-estater-customizer.php:729
+#: template-parts/sections/section-property.php:14
+msgid "Submit Your Property"
+msgstr ""
+
+#: inc/real-estater-customizer.php:745
+msgid "Submit Your Property Link"
+msgstr ""
+
+#: inc/real-estater-customizer.php:757 inc/real-estater-customizer.php:784
+msgid "For Sale Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:758
+msgid "Manage For Sale  Section  for the site"
+msgstr ""
+
+#: inc/real-estater-customizer.php:793
+msgid "For Sale title text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:809
+msgid "Select category for sale Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:827
+msgid "No. of Post on For Sale Section "
+msgstr ""
+
+#: inc/real-estater-customizer.php:843 inc/real-estater-customizer.php:874
+msgid "For Rent Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:844
+msgid "Manage For Rent Section  for your site"
+msgstr ""
+
+#: inc/real-estater-customizer.php:883
+msgid "For Rent title text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:920
+msgid "No. of Post on Rent Section "
+msgstr ""
+
+#: inc/real-estater-customizer.php:937
+msgid "Gallery Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:938
+msgid "Manage Gallery Section  for the site"
+msgstr ""
+
+#: inc/real-estater-customizer.php:966
+msgid "Gallery  Section Title"
+msgstr ""
+
+#: inc/real-estater-customizer.php:975
+msgid "Gallery title text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:992
+msgid "Select category for gallery Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1007
+msgid "Promotional Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1008
+msgid "Manage Promotional  Section  for the site"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1036
+msgid "Promotional Section Title"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1044
+msgid "Promotional title text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1054 inc/real-estater-customizer.php:1062
+msgid "Submit Now "
+msgstr ""
+
+#: inc/real-estater-customizer.php:1081
+msgid "Learn More Text Link"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1094
+msgid "Blog Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1095
+msgid "Manage Blog Section  Section  for the site"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1124
+msgid "Blog Section Title"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1133
+msgid "Blog Title Text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1151
+msgid "Select category for this section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1161 inc/real-estater-customizer.php:1169
+#: inc/real-estater-customizer.php:1329 inc/real-estater-customizer.php:1337
+msgid "Read More "
+msgstr ""
+
+#: inc/real-estater-customizer.php:1186
+msgid "No. of Post on Blog Section "
+msgstr ""
+
+#: inc/real-estater-customizer.php:1202
+msgid "Footer Seting"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1212
+msgid "Footer Social Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1213
+msgid "Manage Footer  Section  for Social"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1228
+msgid "Enable/Disable Footer Social Icons On Footer Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1245
+msgid "Footer Copy Right Section"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1246
+msgid "Manage Footer  Section  for Footer Copy Right"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1261
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1271
+msgid "Archive Page Settings"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1277
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1284
+msgid "Archive Inner Setting"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1298
+msgid "Choose the sidebar Layout for the archive page"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1302 inc/real-estater-sanitizer.php:31
+msgid "Sidebar Left"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1303 inc/real-estater-sanitizer.php:32
+msgid "Sidebar Right"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1304 inc/real-estater-sanitizer.php:33
+msgid "Sidebar Both"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1305 inc/real-estater-sanitizer.php:34
+msgid "Sidebar No"
+msgstr ""
+
+#: inc/real-estater-customizer.php:1316
+msgid "Enable/Disable Date"
+msgstr ""
+
+#: inc/real-estater-functions.php:14
+msgid "Select category"
+msgstr ""
+
+#: inc/real-estater-functions.php:39
+msgctxt "Cairo Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/real-estater-functions.php:62 template-parts/content.php:9
+#: template-parts/sections/section-blog.php:9
+msgid "Read More"
+msgstr ""
+
+#: inc/real-estater-functions.php:101
+msgid "Cotact Us"
+msgstr ""
+
+#: inc/real-estater-metabox.php:29
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/real-estater-metabox.php:34
+msgid "Right sidebar (default)"
+msgstr ""
+
+#: inc/real-estater-metabox.php:39
+msgid "Both Sidebar"
+msgstr ""
+
+#: inc/real-estater-metabox.php:45
+msgid "No sidebar"
+msgstr ""
+
+#: inc/real-estater-metabox.php:62
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:64 inc/template-tags.php:77
+msgctxt "list item separator"
+msgid "/ "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:67 inc/template-tags.php:80
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:90
+#, php-format
+msgid "Leave A Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current paost. Only visible to screen readers
+#: inc/template-tags.php:107 template-parts/content-page.php:36
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/sections/section-blog.php:15
+msgid "Blog  Section Title"
+msgstr ""
+
+#: template-parts/sections/section-feature.php:12
+msgid "Feature Section Title"
+msgstr ""
+
+#: template-parts/sections/section-for-sale.php:13
+msgid "For Sale Section Title"
+msgstr ""
+
+#: template-parts/sections/section-gallery.php:30
+msgid "All"
+msgstr ""
+
+#: template-parts/sections/section-gallery.php:72
+msgid "Load More"
+msgstr ""
+
+#: template-parts/sections/section-pro.php:9
+msgid "Submit Now"
+msgstr ""
+
+#: template-parts/sections/section-property.php:7
+#: template-parts/sections/section-property.php:8
+#: template-parts/sections/section-property.php:9
+#: template-parts/sections/section-service.php:9
+#: template-parts/sections/section-service.php:10
+#: template-parts/sections/section-service.php:11
+#: template-parts/sections/section-service.php:12
+#: template-parts/sections/section-service.php:13
+msgid "fa-car"
+msgstr ""
+
+#: template-parts/sections/section-rent.php:12
+msgid "For Rent Title"
+msgstr ""
+
+#: template-parts/sections/section-service.php:8
+msgid "fa-desktop"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Real Estater"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.theme404.com/real-estater"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Real Estater  is a fresh and clean, modern and functional, versatile and "
+"sophisticated, readily responsive WordPress real estate theme.Real Estater "
+"supports static front page with dynamic sections like slider section, "
+"featured header image, about us section, team section , testimonials etc.."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Theme 404"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.theme404.com/"
+msgstr ""
